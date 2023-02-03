@@ -1,0 +1,22 @@
+{
+  "name": "nodecounter",
+  "version": "1.0.0",
+  "description": "An API in node.js to take a count of page hits and things like that for my web projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MightySpaceman/nodecounter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MightySpaceman/nodecounter/issues"
+  },
+  "homepage": "https://github.com/MightySpaceman/nodecounter#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
